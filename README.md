@@ -350,36 +350,24 @@ The TypeScript compilation should complete without errors.
 
 # Screenshots
 
-Screenshots of the final application should be placed in the `screenshots/` directory.
-
-Recommended screenshots:
 
 ### Login
-
-![Login]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123314.png")
+![Login](./screenshots/login.png)
 
 ### User Dashboard
-
-![User Dashboard]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123339.png")
+![User Dashboard](./screenshots/dashboard.png)
 
 ### Vehicle Catalogue
-
-![Vehicle Catalogue]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123404.png")
-
-### Vehicle Details
-![Vehicle Details]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123427.png")
+![Vehicle Catalogue](./screenshots/vehicles.png)
 
 ### Purchase History
-
-![Purchase History]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123443.png")
+![Purchase History](./screenshots/purchases.png)
 
 ### Admin Dashboard
-
-![Admin Dashboard]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123456.png")
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ### Manage Vehicles
-
-![Manage Vehicles]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123512.png")
+![Manage Vehicles](./screenshots/management.png)
 
 ---
 
