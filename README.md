@@ -352,22 +352,28 @@ The TypeScript compilation should complete without errors.
 
 
 ### Login
-![Login](./screenshots/login.png)
+<img width="913" height="767" alt="Screenshot 2026-08-23 123314" src="https://github.com/user-attachments/assets/b8e5d0f8-c1ab-459c-84d4-6c601348aac5" />
 
 ### User Dashboard
-![User Dashboard](./screenshots/dashboard.png)
+<img width="1913" height="915" alt="Screenshot 2026-08-23 123339" src="https://github.com/user-attachments/assets/3ebf510f-5086-4d85-ab43-cf91cc5883b2" />
+
 
 ### Vehicle Catalogue
-![Vehicle Catalogue](./screenshots/vehicles.png)
+<img width="1908" height="900" alt="Screenshot 2026-08-23 123404" src="https://github.com/user-attachments/assets/6d7cc087-75b8-43da-b346-19881ed025e2" />
+<img width="1904" height="906" alt="Screenshot 2026-08-23 123427" src="https://github.com/user-attachments/assets/55073571-13aa-4272-8e64-d453a0b089f9" />
+
 
 ### Purchase History
-![Purchase History](./screenshots/purchases.png)
+<img width="1917" height="906" alt="Screenshot 2026-08-23 123443" src="https://github.com/user-attachments/assets/10ff8ab8-ae41-4312-9089-f19e100f4f32" />
+
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+<img width="1914" height="908" alt="Screenshot 2026-08-23 123456" src="https://github.com/user-attachments/assets/e1b34a5f-6777-4d74-af83-49188438c937" />
+
 
 ### Manage Vehicles
-![Manage Vehicles](./screenshots/management.png)
+<img width="1918" height="903" alt="Screenshot 2026-08-23 123512" src="https://github.com/user-attachments/assets/73438408-d603-452a-8454-66f36383909c" />
+
 
 ---
 
