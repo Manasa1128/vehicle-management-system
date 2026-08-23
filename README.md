@@ -356,38 +356,30 @@ Recommended screenshots:
 
 ### Login
 
-![Login](<img width="913" height="767" alt="Screenshot 2026-08-23 123314" src="https://github.com/user-attachments/assets/04ef329c-f666-44cc-a232-707a36f70aee" />)
-)
+![Login]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123314.png")
 
 ### User Dashboard
 
-![User Dashboard](<img width="1913" height="915" alt="Screenshot 2026-08-23 123339" src="https://github.com/user-attachments/assets/0e5db3a2-363e-4a99-84aa-fcc00b62ae3b" />
-)
+![User Dashboard]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123339.png")
 
 ### Vehicle Catalogue
 
-![Vehicle Catalogue](<img width="1908" height="900" alt="Screenshot 2026-08-23 123404" src="https://github.com/user-attachments/assets/5c8b185b-2304-49f3-adfe-06cb81d4d2dd" />
-)
+![Vehicle Catalogue]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123404.png")
 
 ### Vehicle Details
-
-![Vehicle Details](<img width="1904" height="906" alt="Screenshot 2026-08-23 123427" src="https://github.com/user-attachments/assets/be8333d3-6216-4d52-9dd9-2c203d9cb24a" />
-)
+![Vehicle Details]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123427.png")
 
 ### Purchase History
 
-![Purchase History](<img width="1917" height="906" alt="Screenshot 2026-08-23 123443" src="https://github.com/user-attachments/assets/5bbbf72e-3018-41e3-97c8-350473d763e5" />
-)
+![Purchase History]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123443.png")
 
 ### Admin Dashboard
 
-![Admin Dashboard](<img width="1914" height="908" alt="Screenshot 2026-08-23 123456" src="https://github.com/user-attachments/assets/a4741261-86d5-44cb-aa49-cbe9834334f8" />
-)
+![Admin Dashboard]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123456.png")
 
 ### Manage Vehicles
 
-![Manage Vehicles](<img width="1918" height="903" alt="Screenshot 2026-08-23 123512" src="https://github.com/user-attachments/assets/c74e0d84-9e47-48a8-a471-0d50b487a4a9" />
-)
+![Manage Vehicles]("C:\Users\manas\OneDrive\Pictures\Screenshots\Screenshot 2026-08-23 123512.png")
 
 ---
 
